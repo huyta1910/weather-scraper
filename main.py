@@ -1,11 +1,15 @@
 import pandas as pd
 import sqlite3
 from datetime import datetime
-
+import os
+import pandas as pd
 from src.utils import setup_database_and_folders, ingest_to_database, save_to_csv, save_text_notifications
 from src.scraper import extract_district, scrape_data_for_branch, generate_rain_summary, LOCATIONS
 
-BRANCHES_FILE = r"D:\weather-forecast\data\branches\branches_icool.csv"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BRANCHES_FILE = os.path.join(BASE_DIR, "data", "branches", "branches_icool.csv")
+
+branches_df = pd.read_csv(BRANCHES_FILE)
 DB_FILE = "weather_forecasts.db"
 
 def run_weather_job():
