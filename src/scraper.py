@@ -31,6 +31,7 @@ LOCATIONS = {
     "TP Vũng Tàu": "https://www.accuweather.com/vi/vn/vung-tau/352089/hourly-weather-forecast/352089?day={}"
 }
 
+
 def extract_district(address: str):
     """Extracts a district name from an address string."""
     match = re.search(r"(Quận\s?\d+|Bình Thạnh|Tân Bình|Phú Nhuận|Tân Phú|TP Thủ Đức|TP Vũng Tàu)", address, re.IGNORECASE)
@@ -38,7 +39,14 @@ def extract_district(address: str):
 
 def scrape_data_for_branch(branch_row, base_url):
     """Scrapes 3 days of weather data for a branch (by district URL)."""
-    headers = { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" }
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/127.0 Safari/537.36"
+        ),
+        "Accept-Language": "vi-VN,vi;q=0.9,en-US;q=0.8,en;q=0.7",
+    }
     rows = []
     for day in range(1, 4):
         url = base_url.format(day)

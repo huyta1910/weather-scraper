@@ -28,5 +28,4 @@ jobs:
         with:
           name: weather-results
           path: |
-            notifications/*.txt
-            reports/*.csv
+            weather_reports/*.txt
