@@ -1,0 +1,1335 @@
+﻿branch,address,latitude,longitude,district,forecast_day,hour,temperature,content,wind,humidity,uv_index
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,hôm nay,14,33°,Nhiều mây,NTN 13 km/h,59%,5.0 (Trung bình)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,hôm nay,15,31°,Nhiều mây,NTN 13 km/h,65%,2.8 (Trung bình)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,hôm nay,16,30°,Có mây,TN 13 km/h,70%,0.6 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,hôm nay,17,28°,Mưa,TN 13 km/h,82%,0.2 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,hôm nay,18,27°,Mưa,TN 13 km/h,84%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,hôm nay,19,27°,Có mây,TN 11 km/h,87%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,hôm nay,20,27°,Có mây,TN 11 km/h,88%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,hôm nay,21,27°,Có mây,TN 11 km/h,91%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,hôm nay,22,26°,Mưa dông,TN 9 km/h,93%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,hôm nay,23,26°,Mưa dông,TN 9 km/h,94%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,00,26°,Có mây,TN 9 km/h,94%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,01,26°,Có mây,TN 9 km/h,94%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,02,26°,Có mây,TN 7 km/h,95%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,03,26°,Có mây,TN 7 km/h,94%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,04,26°,Mưa rào,TN 6 km/h,94%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,05,25°,Có mây,BTB 6 km/h,98%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,06,26°,Có mây,BTB 6 km/h,95%,0.0 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,07,26°,Có mây,TB 6 km/h,92%,0.3 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,08,28°,Có mây,T 7 km/h,86%,0.6 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,09,29°,Có mây,T 9 km/h,80%,1.0 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,10,30°,Mưa rào,T 9 km/h,74%,1.5 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,11,29°,Mưa,T 11 km/h,84%,2.0 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,12,31°,Có mây,T 11 km/h,70%,5.6 (Cao)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,13,31°,Mưa,T 11 km/h,76%,1.8 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,14,32°,Có mây,T 11 km/h,66%,3.4 (Trung bình)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,15,34°,Có mây,TTN 11 km/h,57%,2.0 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,16,32°,Mưa,TTN 11 km/h,63%,0.5 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,17,31°,Có mây,TTN 9 km/h,69%,0.6 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,18,30°,Mưa,TN 9 km/h,78%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,19,29°,Có mây,TN 9 km/h,81%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,20,28°,Có mây,TN 7 km/h,83%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,21,27°,Có mây,TN 7 km/h,85%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,22,27°,Có mây,TTN 7 km/h,87%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,ngày mai,23,27°,Có mây,TTN 7 km/h,87%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,00,27°,Có mây,TTN 7 km/h,90%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,01,26°,Có mây,TTN 7 km/h,92%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,02,26°,Có mây,T 7 km/h,93%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,03,26°,Có mây,T 6 km/h,93%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,04,26°,Có mây,TTB 6 km/h,94%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,05,25°,Có mây,TTB 6 km/h,97%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,06,26°,Có mây,TB 4 km/h,94%,0.0 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,07,27°,Có mây,TB 4 km/h,91%,0.3 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,08,28°,Mưa rào,TTN 4 km/h,86%,0.5 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,09,29°,Mưa,N 6 km/h,79%,0.8 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,10,30°,Có mây,N 6 km/h,74%,1.7 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,11,31°,Có mây,NTN 7 km/h,70%,2.5 (Trung bình)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,12,32°,Mưa,NTN 7 km/h,69%,2.5 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,13,31°,Mưa,TN 9 km/h,68%,1.8 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,14,31°,Có mây,TN 9 km/h,71%,1.7 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,15,31°,Có mây,TN 9 km/h,70%,1.0 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,16,31°,Mưa,NTN 9 km/h,70%,0.5 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,17,30°,Mưa,NTN 9 km/h,75%,0.3 (Thấp)
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,18,29°,Có mây,NTN 7 km/h,80%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,19,28°,Mưa dông,NTN 7 km/h,83%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,20,28°,Mưa dông,NTN 7 km/h,85%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,21,27°,Mưa dông,NTN 6 km/h,86%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,22,27°,Có mây,NTN 6 km/h,88%,
+UNG VĂN KHIÊM,KARAOKE ICOOL 122 UNG VĂN KHIÊM PHƯỜNG 25 Quận Bình Thạnh,10.807294,106.718231,Bình Thạnh,2 ngày tới,23,27°,Có mây,TN 6 km/h,89%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,hôm nay,14,33°,Nhiều mây,NTN 13 km/h,59%,5.0 (Trung bình)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,hôm nay,15,31°,Nhiều mây,NTN 13 km/h,65%,2.8 (Trung bình)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,hôm nay,16,30°,Có mây,TN 13 km/h,70%,0.6 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,hôm nay,17,28°,Mưa,TN 13 km/h,82%,0.2 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,hôm nay,18,27°,Mưa,TN 13 km/h,84%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,hôm nay,19,27°,Có mây,TN 11 km/h,87%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,hôm nay,20,27°,Có mây,TN 11 km/h,88%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,hôm nay,21,27°,Có mây,TN 11 km/h,91%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,hôm nay,22,26°,Mưa dông,TN 9 km/h,93%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,hôm nay,23,26°,Mưa dông,TN 9 km/h,94%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,00,26°,Có mây,TN 9 km/h,94%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,01,26°,Có mây,TN 9 km/h,94%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,02,26°,Có mây,TN 7 km/h,95%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,03,26°,Có mây,TN 7 km/h,94%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,04,26°,Mưa rào,TN 6 km/h,94%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,05,25°,Có mây,BTB 6 km/h,98%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,06,26°,Có mây,BTB 6 km/h,95%,0.0 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,07,26°,Có mây,TB 6 km/h,92%,0.3 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,08,28°,Có mây,T 7 km/h,86%,0.6 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,09,29°,Có mây,T 9 km/h,80%,1.0 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,10,30°,Mưa rào,T 9 km/h,74%,1.5 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,11,29°,Mưa,T 11 km/h,84%,2.0 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,12,31°,Có mây,T 11 km/h,70%,5.6 (Cao)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,13,31°,Mưa,T 11 km/h,76%,1.8 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,14,32°,Có mây,T 11 km/h,66%,3.4 (Trung bình)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,15,34°,Có mây,TTN 11 km/h,57%,2.0 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,16,32°,Mưa,TTN 11 km/h,63%,0.5 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,17,31°,Có mây,TTN 9 km/h,69%,0.6 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,18,30°,Mưa,TN 9 km/h,78%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,19,29°,Có mây,TN 9 km/h,81%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,20,28°,Có mây,TN 7 km/h,83%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,21,27°,Có mây,TN 7 km/h,85%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,22,27°,Có mây,TTN 7 km/h,87%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,ngày mai,23,27°,Có mây,TTN 7 km/h,87%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,00,27°,Có mây,TTN 7 km/h,90%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,01,26°,Có mây,TTN 7 km/h,92%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,02,26°,Có mây,T 7 km/h,93%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,03,26°,Có mây,T 6 km/h,93%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,04,26°,Có mây,TTB 6 km/h,94%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,05,25°,Có mây,TTB 6 km/h,97%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,06,26°,Có mây,TB 4 km/h,94%,0.0 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,07,27°,Có mây,TB 4 km/h,91%,0.3 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,08,28°,Mưa rào,TTN 4 km/h,86%,0.5 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,09,29°,Mưa,N 6 km/h,79%,0.8 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,10,30°,Có mây,N 6 km/h,74%,1.7 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,11,31°,Có mây,NTN 7 km/h,70%,2.5 (Trung bình)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,12,32°,Mưa,NTN 7 km/h,69%,2.5 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,13,31°,Mưa,TN 9 km/h,68%,1.8 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,14,31°,Có mây,TN 9 km/h,71%,1.7 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,15,31°,Có mây,TN 9 km/h,70%,1.0 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,16,31°,Mưa,NTN 9 km/h,70%,0.5 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,17,30°,Mưa,NTN 9 km/h,75%,0.3 (Thấp)
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,18,29°,Có mây,NTN 7 km/h,80%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,19,28°,Mưa dông,NTN 7 km/h,83%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,20,28°,Mưa dông,NTN 7 km/h,85%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,21,27°,Mưa dông,NTN 6 km/h,86%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,22,27°,Có mây,NTN 6 km/h,88%,
+XÔ VIẾT NGHỆ TĨNH,"693 XÔ VIẾT NGHỆ TĨNH , PHƯỜNG 26, Quận Bình Thạnh",10.812628,106.715197,Bình Thạnh,2 ngày tới,23,27°,Có mây,TN 6 km/h,89%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,hôm nay,14,33°,Nhiều mây,NTN 13 km/h,59%,5.0 (Trung bình)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,hôm nay,15,31°,Nhiều mây,NTN 13 km/h,65%,2.8 (Trung bình)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,hôm nay,16,30°,Có mây,TN 13 km/h,70%,0.6 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,hôm nay,17,28°,Mưa,TN 13 km/h,82%,0.2 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,hôm nay,18,27°,Mưa,TN 13 km/h,84%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,hôm nay,19,27°,Có mây,TN 11 km/h,87%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,hôm nay,20,27°,Có mây,TN 11 km/h,88%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,hôm nay,21,27°,Có mây,TN 11 km/h,91%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,hôm nay,22,26°,Mưa dông,TN 9 km/h,93%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,hôm nay,23,26°,Mưa dông,TN 9 km/h,94%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,00,26°,Có mây,TN 9 km/h,94%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,01,26°,Có mây,TN 9 km/h,94%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,02,26°,Có mây,TN 7 km/h,95%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,03,26°,Có mây,TN 7 km/h,94%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,04,26°,Mưa rào,TN 6 km/h,94%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,05,25°,Có mây,BTB 6 km/h,98%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,06,26°,Có mây,BTB 6 km/h,95%,0.0 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,07,26°,Có mây,TB 6 km/h,92%,0.3 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,08,28°,Có mây,T 7 km/h,86%,0.6 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,09,29°,Có mây,T 9 km/h,80%,1.0 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,10,30°,Mưa rào,T 9 km/h,74%,1.5 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,11,29°,Mưa,T 11 km/h,84%,2.0 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,12,31°,Có mây,T 11 km/h,70%,5.6 (Cao)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,13,31°,Mưa,T 11 km/h,76%,1.8 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,14,32°,Có mây,T 11 km/h,66%,3.4 (Trung bình)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,15,34°,Có mây,TTN 11 km/h,57%,2.0 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,16,32°,Mưa,TTN 11 km/h,63%,0.5 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,17,31°,Có mây,TTN 9 km/h,69%,0.6 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,18,30°,Mưa,TN 9 km/h,78%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,19,29°,Có mây,TN 9 km/h,81%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,20,28°,Có mây,TN 7 km/h,83%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,21,27°,Có mây,TN 7 km/h,85%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,22,27°,Có mây,TTN 7 km/h,87%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,ngày mai,23,27°,Có mây,TTN 7 km/h,87%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,00,27°,Có mây,TTN 7 km/h,90%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,01,26°,Có mây,TTN 7 km/h,92%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,02,26°,Có mây,T 7 km/h,93%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,03,26°,Có mây,T 6 km/h,93%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,04,26°,Có mây,TTB 6 km/h,94%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,05,25°,Có mây,TTB 6 km/h,97%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,06,26°,Có mây,TB 4 km/h,94%,0.0 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,07,27°,Có mây,TB 4 km/h,91%,0.3 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,08,28°,Mưa rào,TTN 4 km/h,86%,0.5 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,09,29°,Mưa,N 6 km/h,79%,0.8 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,10,30°,Có mây,N 6 km/h,74%,1.7 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,11,31°,Có mây,NTN 7 km/h,70%,2.5 (Trung bình)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,12,32°,Mưa,NTN 7 km/h,69%,2.5 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,13,31°,Mưa,TN 9 km/h,68%,1.8 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,14,31°,Có mây,TN 9 km/h,71%,1.7 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,15,31°,Có mây,TN 9 km/h,70%,1.0 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,16,31°,Mưa,NTN 9 km/h,70%,0.5 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,17,30°,Mưa,NTN 9 km/h,75%,0.3 (Thấp)
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,18,29°,Có mây,NTN 7 km/h,80%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,19,28°,Mưa dông,NTN 7 km/h,83%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,20,28°,Mưa dông,NTN 7 km/h,85%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,21,27°,Mưa dông,NTN 6 km/h,86%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,22,27°,Có mây,NTN 6 km/h,88%,
+TÔ KÝ,"B74 BIS, TÔ KÝ, ĐÔNG HƯNG THUẬN, Quận 12",10.850219,106.632033,Quận 12,2 ngày tới,23,27°,Có mây,TN 6 km/h,89%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,hôm nay,14,33°,Nhiều mây,NTN 13 km/h,59%,5.0 (Trung bình)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,hôm nay,15,31°,Nhiều mây,NTN 13 km/h,65%,2.8 (Trung bình)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,hôm nay,16,30°,Có mây,TN 13 km/h,70%,0.6 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,hôm nay,17,28°,Mưa,TN 13 km/h,82%,0.2 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,hôm nay,18,27°,Mưa,TN 13 km/h,84%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,hôm nay,19,27°,Có mây,TN 11 km/h,87%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,hôm nay,20,27°,Có mây,TN 11 km/h,88%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,hôm nay,21,27°,Có mây,TN 11 km/h,91%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,hôm nay,22,26°,Mưa dông,TN 9 km/h,93%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,hôm nay,23,26°,Mưa dông,TN 9 km/h,94%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,00,26°,Có mây,TN 9 km/h,94%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,01,26°,Có mây,TN 9 km/h,94%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,02,26°,Có mây,TN 7 km/h,95%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,03,26°,Có mây,TN 7 km/h,94%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,04,26°,Mưa rào,TN 6 km/h,94%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,05,25°,Có mây,BTB 6 km/h,98%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,06,26°,Có mây,BTB 6 km/h,95%,0.0 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,07,26°,Có mây,TB 6 km/h,92%,0.3 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,08,28°,Có mây,T 7 km/h,86%,0.6 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,09,29°,Có mây,T 9 km/h,80%,1.0 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,10,30°,Mưa rào,T 9 km/h,74%,1.5 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,11,29°,Mưa,T 11 km/h,84%,2.0 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,12,31°,Có mây,T 11 km/h,70%,5.6 (Cao)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,13,31°,Mưa,T 11 km/h,76%,1.8 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,14,32°,Có mây,T 11 km/h,66%,3.4 (Trung bình)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,15,34°,Có mây,TTN 11 km/h,57%,2.0 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,16,32°,Mưa,TTN 11 km/h,63%,0.5 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,17,31°,Có mây,TTN 9 km/h,69%,0.6 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,18,30°,Mưa,TN 9 km/h,78%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,19,29°,Có mây,TN 9 km/h,81%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,20,28°,Có mây,TN 7 km/h,83%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,21,27°,Có mây,TN 7 km/h,85%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,22,27°,Có mây,TTN 7 km/h,87%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,ngày mai,23,27°,Có mây,TTN 7 km/h,87%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,00,27°,Có mây,TTN 7 km/h,90%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,01,26°,Có mây,TTN 7 km/h,92%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,02,26°,Có mây,T 7 km/h,93%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,03,26°,Có mây,T 6 km/h,93%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,04,26°,Có mây,TTB 6 km/h,94%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,05,25°,Có mây,TTB 6 km/h,97%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,06,26°,Có mây,TB 4 km/h,94%,0.0 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,07,27°,Có mây,TB 4 km/h,91%,0.3 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,08,28°,Mưa rào,TTN 4 km/h,86%,0.5 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,09,29°,Mưa,N 6 km/h,79%,0.8 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,10,30°,Có mây,N 6 km/h,74%,1.7 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,11,31°,Có mây,NTN 7 km/h,70%,2.5 (Trung bình)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,12,32°,Mưa,NTN 7 km/h,69%,2.5 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,13,31°,Mưa,TN 9 km/h,68%,1.8 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,14,31°,Có mây,TN 9 km/h,71%,1.7 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,15,31°,Có mây,TN 9 km/h,70%,1.0 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,16,31°,Mưa,NTN 9 km/h,70%,0.5 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,17,30°,Mưa,NTN 9 km/h,75%,0.3 (Thấp)
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,18,29°,Có mây,NTN 7 km/h,80%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,19,28°,Mưa dông,NTN 7 km/h,83%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,20,28°,Mưa dông,NTN 7 km/h,85%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,21,27°,Mưa dông,NTN 6 km/h,86%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,22,27°,Có mây,NTN 6 km/h,88%,
+BÌNH PHÚ,"31 BÌNH PHÚ, PHƯỜNG 10, Quận 6",10.740597,106.629426,Quận 6,2 ngày tới,23,27°,Có mây,TN 6 km/h,89%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,hôm nay,14,33°,Nhiều mây,NTN 13 km/h,59%,5.0 (Trung bình)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,hôm nay,15,31°,Nhiều mây,NTN 13 km/h,65%,2.8 (Trung bình)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,hôm nay,16,30°,Có mây,TN 13 km/h,70%,0.6 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,hôm nay,17,28°,Mưa,TN 13 km/h,82%,0.2 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,hôm nay,18,27°,Mưa,TN 13 km/h,84%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,hôm nay,19,27°,Có mây,TN 11 km/h,87%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,hôm nay,20,27°,Có mây,TN 11 km/h,88%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,hôm nay,21,27°,Có mây,TN 11 km/h,91%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,hôm nay,22,26°,Mưa dông,TN 9 km/h,93%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,hôm nay,23,26°,Mưa dông,TN 9 km/h,94%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,00,26°,Có mây,TN 9 km/h,94%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,01,26°,Có mây,TN 9 km/h,94%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,02,26°,Có mây,TN 7 km/h,95%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,03,26°,Có mây,TN 7 km/h,94%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,04,26°,Mưa rào,TN 6 km/h,94%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,05,25°,Có mây,BTB 6 km/h,98%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,06,26°,Có mây,BTB 6 km/h,95%,0.0 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,07,26°,Có mây,TB 6 km/h,92%,0.3 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,08,28°,Có mây,T 7 km/h,86%,0.6 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,09,29°,Có mây,T 9 km/h,80%,1.0 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,10,30°,Mưa rào,T 9 km/h,74%,1.5 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,11,29°,Mưa,T 11 km/h,84%,2.0 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,12,31°,Có mây,T 11 km/h,70%,5.6 (Cao)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,13,31°,Mưa,T 11 km/h,76%,1.8 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,14,32°,Có mây,T 11 km/h,66%,3.4 (Trung bình)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,15,34°,Có mây,TTN 11 km/h,57%,2.0 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,16,32°,Mưa,TTN 11 km/h,63%,0.5 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,17,31°,Có mây,TTN 9 km/h,69%,0.6 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,18,30°,Mưa,TN 9 km/h,78%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,19,29°,Có mây,TN 9 km/h,81%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,20,28°,Có mây,TN 7 km/h,83%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,21,27°,Có mây,TN 7 km/h,85%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,22,27°,Có mây,TTN 7 km/h,87%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,ngày mai,23,27°,Có mây,TTN 7 km/h,87%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,00,27°,Có mây,TTN 7 km/h,90%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,01,26°,Có mây,TTN 7 km/h,92%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,02,26°,Có mây,T 7 km/h,93%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,03,26°,Có mây,T 6 km/h,93%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,04,26°,Có mây,TTB 6 km/h,94%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,05,25°,Có mây,TTB 6 km/h,97%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,06,26°,Có mây,TB 4 km/h,94%,0.0 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,07,27°,Có mây,TB 4 km/h,91%,0.3 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,08,28°,Mưa rào,TTN 4 km/h,86%,0.5 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,09,29°,Mưa,N 6 km/h,79%,0.8 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,10,30°,Có mây,N 6 km/h,74%,1.7 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,11,31°,Có mây,NTN 7 km/h,70%,2.5 (Trung bình)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,12,32°,Mưa,NTN 7 km/h,69%,2.5 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,13,31°,Mưa,TN 9 km/h,68%,1.8 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,14,31°,Có mây,TN 9 km/h,71%,1.7 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,15,31°,Có mây,TN 9 km/h,70%,1.0 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,16,31°,Mưa,NTN 9 km/h,70%,0.5 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,17,30°,Mưa,NTN 9 km/h,75%,0.3 (Thấp)
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,18,29°,Có mây,NTN 7 km/h,80%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,19,28°,Mưa dông,NTN 7 km/h,83%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,20,28°,Mưa dông,NTN 7 km/h,85%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,21,27°,Mưa dông,NTN 6 km/h,86%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,22,27°,Có mây,NTN 6 km/h,88%,
+DƯƠNG BÁ TRẠC,"456 DƯƠNG BÁ TRẠC, PHƯỜNG 2, Quận 8",10.742274,106.688462,Quận 8,2 ngày tới,23,27°,Có mây,TN 6 km/h,89%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,hôm nay,14,33°,Nhiều mây,NTN 13 km/h,59%,5.0 (Trung bình)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,hôm nay,15,31°,Nhiều mây,NTN 13 km/h,65%,2.8 (Trung bình)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,hôm nay,16,30°,Có mây,TN 13 km/h,70%,0.6 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,hôm nay,17,28°,Mưa,TN 13 km/h,82%,0.2 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,hôm nay,18,27°,Mưa,TN 13 km/h,84%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,hôm nay,19,27°,Có mây,TN 11 km/h,87%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,hôm nay,20,27°,Có mây,TN 11 km/h,88%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,hôm nay,21,27°,Có mây,TN 11 km/h,91%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,hôm nay,22,26°,Mưa dông,TN 9 km/h,93%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,hôm nay,23,26°,Mưa dông,TN 9 km/h,94%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,00,26°,Có mây,TN 9 km/h,94%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,01,26°,Có mây,TN 9 km/h,94%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,02,26°,Có mây,TN 7 km/h,95%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,03,26°,Có mây,TN 7 km/h,94%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,04,26°,Mưa rào,TN 6 km/h,94%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,05,25°,Có mây,BTB 6 km/h,98%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,06,26°,Có mây,BTB 6 km/h,95%,0.0 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,07,26°,Có mây,TB 6 km/h,92%,0.3 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,08,28°,Có mây,T 7 km/h,86%,0.6 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,09,29°,Có mây,T 9 km/h,80%,1.0 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,10,30°,Mưa rào,T 9 km/h,74%,1.5 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,11,29°,Mưa,T 11 km/h,84%,2.0 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,12,31°,Có mây,T 11 km/h,70%,5.6 (Cao)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,13,31°,Mưa,T 11 km/h,76%,1.8 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,14,32°,Có mây,T 11 km/h,66%,3.4 (Trung bình)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,15,34°,Có mây,TTN 11 km/h,57%,2.0 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,16,32°,Mưa,TTN 11 km/h,63%,0.5 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,17,31°,Có mây,TTN 9 km/h,69%,0.6 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,18,30°,Mưa,TN 9 km/h,78%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,19,29°,Có mây,TN 9 km/h,81%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,20,28°,Có mây,TN 7 km/h,83%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,21,27°,Có mây,TN 7 km/h,85%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,22,27°,Có mây,TTN 7 km/h,87%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,ngày mai,23,27°,Có mây,TTN 7 km/h,87%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,00,27°,Có mây,TTN 7 km/h,90%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,01,26°,Có mây,TTN 7 km/h,92%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,02,26°,Có mây,T 7 km/h,93%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,03,26°,Có mây,T 6 km/h,93%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,04,26°,Có mây,TTB 6 km/h,94%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,05,25°,Có mây,TTB 6 km/h,97%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,06,26°,Có mây,TB 4 km/h,94%,0.0 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,07,27°,Có mây,TB 4 km/h,91%,0.3 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,08,28°,Mưa rào,TTN 4 km/h,86%,0.5 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,09,29°,Mưa,N 6 km/h,79%,0.8 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,10,30°,Có mây,N 6 km/h,74%,1.7 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,11,31°,Có mây,NTN 7 km/h,70%,2.5 (Trung bình)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,12,32°,Mưa,NTN 7 km/h,69%,2.5 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,13,31°,Mưa,TN 9 km/h,68%,1.8 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,14,31°,Có mây,TN 9 km/h,71%,1.7 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,15,31°,Có mây,TN 9 km/h,70%,1.0 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,16,31°,Mưa,NTN 9 km/h,70%,0.5 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,17,30°,Mưa,NTN 9 km/h,75%,0.3 (Thấp)
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,18,29°,Có mây,NTN 7 km/h,80%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,19,28°,Mưa dông,NTN 7 km/h,83%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,20,28°,Mưa dông,NTN 7 km/h,85%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,21,27°,Mưa dông,NTN 6 km/h,86%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,22,27°,Có mây,NTN 6 km/h,88%,
+NGUYỄN SƠN,"38 NGUYỄN SƠN PHƯỜNG PHÚ THỌ HÒA, Quận Tân Phú",10.781639,106.632747,Tân Phú,2 ngày tới,23,27°,Có mây,TN 6 km/h,89%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,hôm nay,14,33°,Nhiều mây,NTN 13 km/h,59%,5.0 (Trung bình)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,hôm nay,15,31°,Nhiều mây,NTN 13 km/h,65%,2.8 (Trung bình)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,hôm nay,16,30°,Có mây,TN 13 km/h,70%,0.6 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,hôm nay,17,28°,Mưa,TN 13 km/h,82%,0.2 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,hôm nay,18,27°,Mưa,TN 13 km/h,84%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,hôm nay,19,27°,Có mây,TN 11 km/h,87%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,hôm nay,20,27°,Có mây,TN 11 km/h,88%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,hôm nay,21,27°,Có mây,TN 11 km/h,91%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,hôm nay,22,26°,Mưa dông,TN 9 km/h,93%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,hôm nay,23,26°,Mưa dông,TN 9 km/h,94%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,00,26°,Có mây,TN 9 km/h,94%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,01,26°,Có mây,TN 9 km/h,94%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,02,26°,Có mây,TN 7 km/h,95%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,03,26°,Có mây,TN 7 km/h,94%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,04,26°,Mưa rào,TN 6 km/h,94%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,05,25°,Có mây,BTB 6 km/h,98%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,06,26°,Có mây,BTB 6 km/h,95%,0.0 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,07,26°,Có mây,TB 6 km/h,92%,0.3 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,08,28°,Có mây,T 7 km/h,86%,0.6 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,09,29°,Có mây,T 9 km/h,80%,1.0 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,10,30°,Mưa rào,T 9 km/h,74%,1.5 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,11,29°,Mưa,T 11 km/h,84%,2.0 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,12,31°,Có mây,T 11 km/h,70%,5.6 (Cao)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,13,31°,Mưa,T 11 km/h,76%,1.8 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,14,32°,Có mây,T 11 km/h,66%,3.4 (Trung bình)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,15,34°,Có mây,TTN 11 km/h,57%,2.0 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,16,32°,Mưa,TTN 11 km/h,63%,0.5 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,17,31°,Có mây,TTN 9 km/h,69%,0.6 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,18,30°,Mưa,TN 9 km/h,78%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,19,29°,Có mây,TN 9 km/h,81%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,20,28°,Có mây,TN 7 km/h,83%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,21,27°,Có mây,TN 7 km/h,85%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,22,27°,Có mây,TTN 7 km/h,87%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,ngày mai,23,27°,Có mây,TTN 7 km/h,87%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,00,27°,Có mây,TTN 7 km/h,90%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,01,26°,Có mây,TTN 7 km/h,92%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,02,26°,Có mây,T 7 km/h,93%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,03,26°,Có mây,T 6 km/h,93%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,04,26°,Có mây,TTB 6 km/h,94%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,05,25°,Có mây,TTB 6 km/h,97%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,06,26°,Có mây,TB 4 km/h,94%,0.0 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,07,27°,Có mây,TB 4 km/h,91%,0.3 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,08,28°,Mưa rào,TTN 4 km/h,86%,0.5 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,09,29°,Mưa,N 6 km/h,79%,0.8 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,10,30°,Có mây,N 6 km/h,74%,1.7 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,11,31°,Có mây,NTN 7 km/h,70%,2.5 (Trung bình)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,12,32°,Mưa,NTN 7 km/h,69%,2.5 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,13,31°,Mưa,TN 9 km/h,68%,1.8 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,14,31°,Có mây,TN 9 km/h,71%,1.7 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,15,31°,Có mây,TN 9 km/h,70%,1.0 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,16,31°,Mưa,NTN 9 km/h,70%,0.5 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,17,30°,Mưa,NTN 9 km/h,75%,0.3 (Thấp)
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,18,29°,Có mây,NTN 7 km/h,80%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,19,28°,Mưa dông,NTN 7 km/h,83%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,20,28°,Mưa dông,NTN 7 km/h,85%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,21,27°,Mưa dông,NTN 6 km/h,86%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,22,27°,Có mây,NTN 6 km/h,88%,
+THÀNH THÁI,120 THÀNH THÁI PHƯỜNG 12 Quận 10,10.77476,106.664455,Quận 10,2 ngày tới,23,27°,Có mây,TN 6 km/h,89%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,hôm nay,14,33°,Nhiều mây,NTN 13 km/h,59%,5.0 (Trung bình)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,hôm nay,15,31°,Nhiều mây,NTN 13 km/h,65%,2.8 (Trung bình)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,hôm nay,16,30°,Có mây,TN 13 km/h,70%,0.6 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,hôm nay,17,28°,Mưa,TN 13 km/h,82%,0.2 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,hôm nay,18,27°,Mưa,TN 13 km/h,84%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,hôm nay,19,27°,Có mây,TN 11 km/h,87%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,hôm nay,20,27°,Có mây,TN 11 km/h,88%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,hôm nay,21,27°,Có mây,TN 11 km/h,91%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,hôm nay,22,26°,Mưa dông,TN 9 km/h,93%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,hôm nay,23,26°,Mưa dông,TN 9 km/h,94%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,00,26°,Có mây,TN 9 km/h,94%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,01,26°,Có mây,TN 9 km/h,94%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,02,26°,Có mây,TN 7 km/h,95%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,03,26°,Có mây,TN 7 km/h,94%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,04,26°,Mưa rào,TN 6 km/h,94%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,05,25°,Có mây,BTB 6 km/h,98%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,06,26°,Có mây,BTB 6 km/h,95%,0.0 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,07,26°,Có mây,TB 6 km/h,92%,0.3 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,08,28°,Có mây,T 7 km/h,86%,0.6 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,09,29°,Có mây,T 9 km/h,80%,1.0 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,10,30°,Mưa rào,T 9 km/h,74%,1.5 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,11,29°,Mưa,T 11 km/h,84%,2.0 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,12,31°,Có mây,T 11 km/h,70%,5.6 (Cao)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,13,31°,Mưa,T 11 km/h,76%,1.8 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,14,32°,Có mây,T 11 km/h,66%,3.4 (Trung bình)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,15,34°,Có mây,TTN 11 km/h,57%,2.0 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,16,32°,Mưa,TTN 11 km/h,63%,0.5 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,17,31°,Có mây,TTN 9 km/h,69%,0.6 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,18,30°,Mưa,TN 9 km/h,78%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,19,29°,Có mây,TN 9 km/h,81%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,20,28°,Có mây,TN 7 km/h,83%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,21,27°,Có mây,TN 7 km/h,85%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,22,27°,Có mây,TTN 7 km/h,87%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,ngày mai,23,27°,Có mây,TTN 7 km/h,87%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,00,27°,Có mây,TTN 7 km/h,90%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,01,26°,Có mây,TTN 7 km/h,92%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,02,26°,Có mây,T 7 km/h,93%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,03,26°,Có mây,T 6 km/h,93%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,04,26°,Có mây,TTB 6 km/h,94%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,05,25°,Có mây,TTB 6 km/h,97%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,06,26°,Có mây,TB 4 km/h,94%,0.0 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,07,27°,Có mây,TB 4 km/h,91%,0.3 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,08,28°,Mưa rào,TTN 4 km/h,86%,0.5 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,09,29°,Mưa,N 6 km/h,79%,0.8 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,10,30°,Có mây,N 6 km/h,74%,1.7 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,11,31°,Có mây,NTN 7 km/h,70%,2.5 (Trung bình)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,12,32°,Mưa,NTN 7 km/h,69%,2.5 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,13,31°,Mưa,TN 9 km/h,68%,1.8 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,14,31°,Có mây,TN 9 km/h,71%,1.7 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,15,31°,Có mây,TN 9 km/h,70%,1.0 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,16,31°,Mưa,NTN 9 km/h,70%,0.5 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,17,30°,Mưa,NTN 9 km/h,75%,0.3 (Thấp)
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,18,29°,Có mây,NTN 7 km/h,80%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,19,28°,Mưa dông,NTN 7 km/h,83%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,20,28°,Mưa dông,NTN 7 km/h,85%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,21,27°,Mưa dông,NTN 6 km/h,86%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,22,27°,Có mây,NTN 6 km/h,88%,
+MẠC ĐỈNH CHI,90 MẠC ĐỈNH CHI PHƯỜNG ĐA KAO Quận 1,10.788501,106.696116,Quận 1,2 ngày tới,23,27°,Có mây,TN 6 km/h,89%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,hôm nay,14,33°,Nhiều mây,NTN 13 km/h,59%,5.0 (Trung bình)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,hôm nay,15,31°,Nhiều mây,NTN 13 km/h,65%,2.8 (Trung bình)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,hôm nay,16,30°,Có mây,TN 13 km/h,70%,0.6 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,hôm nay,17,28°,Mưa,TN 13 km/h,82%,0.2 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,hôm nay,18,27°,Mưa,TN 13 km/h,84%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,hôm nay,19,27°,Có mây,TN 11 km/h,87%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,hôm nay,20,27°,Có mây,TN 11 km/h,88%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,hôm nay,21,27°,Có mây,TN 11 km/h,91%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,hôm nay,22,26°,Mưa dông,TN 9 km/h,93%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,hôm nay,23,26°,Mưa dông,TN 9 km/h,94%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,00,26°,Có mây,TN 9 km/h,94%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,01,26°,Có mây,TN 9 km/h,94%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,02,26°,Có mây,TN 7 km/h,95%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,03,26°,Có mây,TN 7 km/h,94%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,04,26°,Mưa rào,TN 6 km/h,94%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,05,25°,Có mây,BTB 6 km/h,98%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,06,26°,Có mây,BTB 6 km/h,95%,0.0 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,07,26°,Có mây,TB 6 km/h,92%,0.3 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,08,28°,Có mây,T 7 km/h,86%,0.6 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,09,29°,Có mây,T 9 km/h,80%,1.0 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,10,30°,Mưa rào,T 9 km/h,74%,1.5 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,11,29°,Mưa,T 11 km/h,84%,2.0 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,12,31°,Có mây,T 11 km/h,70%,5.6 (Cao)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,13,31°,Mưa,T 11 km/h,76%,1.8 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,14,32°,Có mây,T 11 km/h,66%,3.4 (Trung bình)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,15,34°,Có mây,TTN 11 km/h,57%,2.0 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,16,32°,Mưa,TTN 11 km/h,63%,0.5 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,17,31°,Có mây,TTN 9 km/h,69%,0.6 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,18,30°,Mưa,TN 9 km/h,78%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,19,29°,Có mây,TN 9 km/h,81%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,20,28°,Có mây,TN 7 km/h,83%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,21,27°,Có mây,TN 7 km/h,85%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,22,27°,Có mây,TTN 7 km/h,87%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,ngày mai,23,27°,Có mây,TTN 7 km/h,87%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,00,27°,Có mây,TTN 7 km/h,90%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,01,26°,Có mây,TTN 7 km/h,92%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,02,26°,Có mây,T 7 km/h,93%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,03,26°,Có mây,T 6 km/h,93%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,04,26°,Có mây,TTB 6 km/h,94%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,05,25°,Có mây,TTB 6 km/h,97%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,06,26°,Có mây,TB 4 km/h,94%,0.0 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,07,27°,Có mây,TB 4 km/h,91%,0.3 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,08,28°,Mưa rào,TTN 4 km/h,86%,0.5 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,09,29°,Mưa,N 6 km/h,79%,0.8 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,10,30°,Có mây,N 6 km/h,74%,1.7 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,11,31°,Có mây,NTN 7 km/h,70%,2.5 (Trung bình)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,12,32°,Mưa,NTN 7 km/h,69%,2.5 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,13,31°,Mưa,TN 9 km/h,68%,1.8 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,14,31°,Có mây,TN 9 km/h,71%,1.7 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,15,31°,Có mây,TN 9 km/h,70%,1.0 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,16,31°,Mưa,NTN 9 km/h,70%,0.5 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,17,30°,Mưa,NTN 9 km/h,75%,0.3 (Thấp)
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,18,29°,Có mây,NTN 7 km/h,80%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,19,28°,Mưa dông,NTN 7 km/h,83%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,20,28°,Mưa dông,NTN 7 km/h,85%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,21,27°,Mưa dông,NTN 6 km/h,86%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,22,27°,Có mây,NTN 6 km/h,88%,
+TRẦN BÌNH TRỌNG,177 TRẦN BÌNH TRỌNG PHƯỜNG 3 Quận 5,10.758832,106.680514,Quận 5,2 ngày tới,23,27°,Có mây,TN 6 km/h,89%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,hôm nay,14,33°,Nhiều mây,NTN 13 km/h,59%,5.0 (Trung bình)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,hôm nay,15,31°,Nhiều mây,NTN 13 km/h,65%,2.8 (Trung bình)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,hôm nay,16,30°,Có mây,TN 13 km/h,70%,0.6 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,hôm nay,17,28°,Mưa,TN 13 km/h,82%,0.2 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,hôm nay,18,27°,Mưa,TN 13 km/h,84%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,hôm nay,19,27°,Có mây,TN 11 km/h,87%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,hôm nay,20,27°,Có mây,TN 11 km/h,88%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,hôm nay,21,27°,Có mây,TN 11 km/h,91%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,hôm nay,22,26°,Mưa dông,TN 9 km/h,93%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,hôm nay,23,26°,Mưa dông,TN 9 km/h,94%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,00,26°,Có mây,TN 9 km/h,94%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,01,26°,Có mây,TN 9 km/h,94%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,02,26°,Có mây,TN 7 km/h,95%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,03,26°,Có mây,TN 7 km/h,94%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,04,26°,Mưa rào,TN 6 km/h,94%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,05,25°,Có mây,BTB 6 km/h,98%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,06,26°,Có mây,BTB 6 km/h,95%,0.0 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,07,26°,Có mây,TB 6 km/h,92%,0.3 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,08,28°,Có mây,T 7 km/h,86%,0.6 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,09,29°,Có mây,T 9 km/h,80%,1.0 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,10,30°,Mưa rào,T 9 km/h,74%,1.5 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,11,29°,Mưa,T 11 km/h,84%,2.0 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,12,31°,Có mây,T 11 km/h,70%,5.6 (Cao)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,13,31°,Mưa,T 11 km/h,76%,1.8 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,14,32°,Có mây,T 11 km/h,66%,3.4 (Trung bình)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,15,34°,Có mây,TTN 11 km/h,57%,2.0 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,16,32°,Mưa,TTN 11 km/h,63%,0.5 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,17,31°,Có mây,TTN 9 km/h,69%,0.6 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,18,30°,Mưa,TN 9 km/h,78%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,19,29°,Có mây,TN 9 km/h,81%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,20,28°,Có mây,TN 7 km/h,83%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,21,27°,Có mây,TN 7 km/h,85%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,22,27°,Có mây,TTN 7 km/h,87%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,ngày mai,23,27°,Có mây,TTN 7 km/h,87%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,00,27°,Có mây,TTN 7 km/h,90%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,01,26°,Có mây,TTN 7 km/h,92%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,02,26°,Có mây,T 7 km/h,93%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,03,26°,Có mây,T 6 km/h,93%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,04,26°,Có mây,TTB 6 km/h,94%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,05,25°,Có mây,TTB 6 km/h,97%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,06,26°,Có mây,TB 4 km/h,94%,0.0 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,07,27°,Có mây,TB 4 km/h,91%,0.3 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,08,28°,Mưa rào,TTN 4 km/h,86%,0.5 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,09,29°,Mưa,N 6 km/h,79%,0.8 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,10,30°,Có mây,N 6 km/h,74%,1.7 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,11,31°,Có mây,NTN 7 km/h,70%,2.5 (Trung bình)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,12,32°,Mưa,NTN 7 km/h,69%,2.5 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,13,31°,Mưa,TN 9 km/h,68%,1.8 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,14,31°,Có mây,TN 9 km/h,71%,1.7 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,15,31°,Có mây,TN 9 km/h,70%,1.0 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,16,31°,Mưa,NTN 9 km/h,70%,0.5 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,17,30°,Mưa,NTN 9 km/h,75%,0.3 (Thấp)
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,18,29°,Có mây,NTN 7 km/h,80%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,19,28°,Mưa dông,NTN 7 km/h,83%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,20,28°,Mưa dông,NTN 7 km/h,85%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,21,27°,Mưa dông,NTN 6 km/h,86%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,22,27°,Có mây,NTN 6 km/h,88%,
+CẦU CHỮ Y,"147 DẠ NAM PHƯỜNG 3, Quận 8",10.748389,106.684143,Quận 8,2 ngày tới,23,27°,Có mây,TN 6 km/h,89%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,hôm nay,14,33°,Nhiều mây,NTN 13 km/h,59%,5.0 (Trung bình)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,hôm nay,15,31°,Nhiều mây,NTN 13 km/h,65%,2.8 (Trung bình)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,hôm nay,16,30°,Có mây,TN 13 km/h,70%,0.6 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,hôm nay,17,28°,Mưa,TN 13 km/h,82%,0.2 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,hôm nay,18,27°,Mưa,TN 13 km/h,84%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,hôm nay,19,27°,Có mây,TN 11 km/h,87%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,hôm nay,20,27°,Có mây,TN 11 km/h,88%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,hôm nay,21,27°,Có mây,TN 11 km/h,91%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,hôm nay,22,26°,Mưa dông,TN 9 km/h,93%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,hôm nay,23,26°,Mưa dông,TN 9 km/h,94%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,00,26°,Có mây,TN 9 km/h,94%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,01,26°,Có mây,TN 9 km/h,94%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,02,26°,Có mây,TN 7 km/h,95%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,03,26°,Có mây,TN 7 km/h,94%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,04,26°,Mưa rào,TN 6 km/h,94%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,05,25°,Có mây,BTB 6 km/h,98%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,06,26°,Có mây,BTB 6 km/h,95%,0.0 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,07,26°,Có mây,TB 6 km/h,92%,0.3 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,08,28°,Có mây,T 7 km/h,86%,0.6 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,09,29°,Có mây,T 9 km/h,80%,1.0 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,10,30°,Mưa rào,T 9 km/h,74%,1.5 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,11,29°,Mưa,T 11 km/h,84%,2.0 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,12,31°,Có mây,T 11 km/h,70%,5.6 (Cao)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,13,31°,Mưa,T 11 km/h,76%,1.8 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,14,32°,Có mây,T 11 km/h,66%,3.4 (Trung bình)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,15,34°,Có mây,TTN 11 km/h,57%,2.0 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,16,32°,Mưa,TTN 11 km/h,63%,0.5 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,17,31°,Có mây,TTN 9 km/h,69%,0.6 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,18,30°,Mưa,TN 9 km/h,78%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,19,29°,Có mây,TN 9 km/h,81%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,20,28°,Có mây,TN 7 km/h,83%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,21,27°,Có mây,TN 7 km/h,85%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,22,27°,Có mây,TTN 7 km/h,87%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,ngày mai,23,27°,Có mây,TTN 7 km/h,87%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,00,27°,Có mây,TTN 7 km/h,90%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,01,26°,Có mây,TTN 7 km/h,92%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,02,26°,Có mây,T 7 km/h,93%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,03,26°,Có mây,T 6 km/h,93%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,04,26°,Có mây,TTB 6 km/h,94%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,05,25°,Có mây,TTB 6 km/h,97%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,06,26°,Có mây,TB 4 km/h,94%,0.0 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,07,27°,Có mây,TB 4 km/h,91%,0.3 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,08,28°,Mưa rào,TTN 4 km/h,86%,0.5 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,09,29°,Mưa,N 6 km/h,79%,0.8 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,10,30°,Có mây,N 6 km/h,74%,1.7 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,11,31°,Có mây,NTN 7 km/h,70%,2.5 (Trung bình)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,12,32°,Mưa,NTN 7 km/h,69%,2.5 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,13,31°,Mưa,TN 9 km/h,68%,1.8 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,14,31°,Có mây,TN 9 km/h,71%,1.7 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,15,31°,Có mây,TN 9 km/h,70%,1.0 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,16,31°,Mưa,NTN 9 km/h,70%,0.5 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,17,30°,Mưa,NTN 9 km/h,75%,0.3 (Thấp)
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,18,29°,Có mây,NTN 7 km/h,80%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,19,28°,Mưa dông,NTN 7 km/h,83%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,20,28°,Mưa dông,NTN 7 km/h,85%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,21,27°,Mưa dông,NTN 6 km/h,86%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,22,27°,Có mây,NTN 6 km/h,88%,
+NHỊ THIÊN ĐƯỜNG,260 QUỐC LỘ 50 PHƯỜNG 6 Quận 8,10.734967,106.656078,Quận 8,2 ngày tới,23,27°,Có mây,TN 6 km/h,89%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,hôm nay,14,33°,Nhiều mây,NTN 13 km/h,59%,5.0 (Trung bình)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,hôm nay,15,31°,Nhiều mây,NTN 13 km/h,65%,2.8 (Trung bình)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,hôm nay,16,30°,Có mây,TN 13 km/h,70%,0.6 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,hôm nay,17,28°,Mưa,TN 13 km/h,82%,0.2 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,hôm nay,18,27°,Mưa,TN 13 km/h,84%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,hôm nay,19,27°,Có mây,TN 11 km/h,87%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,hôm nay,20,27°,Có mây,TN 11 km/h,88%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,hôm nay,21,27°,Có mây,TN 11 km/h,91%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,hôm nay,22,26°,Mưa dông,TN 9 km/h,93%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,hôm nay,23,26°,Mưa dông,TN 9 km/h,94%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,00,26°,Có mây,TN 9 km/h,94%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,01,26°,Có mây,TN 9 km/h,94%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,02,26°,Có mây,TN 7 km/h,95%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,03,26°,Có mây,TN 7 km/h,94%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,04,26°,Mưa rào,TN 6 km/h,94%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,05,25°,Có mây,BTB 6 km/h,98%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,06,26°,Có mây,BTB 6 km/h,95%,0.0 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,07,26°,Có mây,TB 6 km/h,92%,0.3 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,08,28°,Có mây,T 7 km/h,86%,0.6 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,09,29°,Có mây,T 9 km/h,80%,1.0 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,10,30°,Mưa rào,T 9 km/h,74%,1.5 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,11,29°,Mưa,T 11 km/h,84%,2.0 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,12,31°,Có mây,T 11 km/h,70%,5.6 (Cao)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,13,31°,Mưa,T 11 km/h,76%,1.8 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,14,32°,Có mây,T 11 km/h,66%,3.4 (Trung bình)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,15,34°,Có mây,TTN 11 km/h,57%,2.0 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,16,32°,Mưa,TTN 11 km/h,63%,0.5 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,17,31°,Có mây,TTN 9 km/h,69%,0.6 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,18,30°,Mưa,TN 9 km/h,78%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,19,29°,Có mây,TN 9 km/h,81%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,20,28°,Có mây,TN 7 km/h,83%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,21,27°,Có mây,TN 7 km/h,85%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,22,27°,Có mây,TTN 7 km/h,87%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,ngày mai,23,27°,Có mây,TTN 7 km/h,87%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,00,27°,Có mây,TTN 7 km/h,90%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,01,26°,Có mây,TTN 7 km/h,92%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,02,26°,Có mây,T 7 km/h,93%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,03,26°,Có mây,T 6 km/h,93%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,04,26°,Có mây,TTB 6 km/h,94%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,05,25°,Có mây,TTB 6 km/h,97%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,06,26°,Có mây,TB 4 km/h,94%,0.0 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,07,27°,Có mây,TB 4 km/h,91%,0.3 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,08,28°,Mưa rào,TTN 4 km/h,86%,0.5 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,09,29°,Mưa,N 6 km/h,79%,0.8 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,10,30°,Có mây,N 6 km/h,74%,1.7 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,11,31°,Có mây,NTN 7 km/h,70%,2.5 (Trung bình)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,12,32°,Mưa,NTN 7 km/h,69%,2.5 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,13,31°,Mưa,TN 9 km/h,68%,1.8 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,14,31°,Có mây,TN 9 km/h,71%,1.7 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,15,31°,Có mây,TN 9 km/h,70%,1.0 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,16,31°,Mưa,NTN 9 km/h,70%,0.5 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,17,30°,Mưa,NTN 9 km/h,75%,0.3 (Thấp)
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,18,29°,Có mây,NTN 7 km/h,80%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,19,28°,Mưa dông,NTN 7 km/h,83%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,20,28°,Mưa dông,NTN 7 km/h,85%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,21,27°,Mưa dông,NTN 6 km/h,86%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,22,27°,Có mây,NTN 6 km/h,88%,
+NGUYỄN TRÃI,878 NGUYỄN TRÃI PHƯỜNG 14 Quận 5,10.754868,106.667671,Quận 5,2 ngày tới,23,27°,Có mây,TN 6 km/h,89%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,hôm nay,14,33°,Nhiều mây,NTN 13 km/h,59%,5.0 (Trung bình)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,hôm nay,15,31°,Nhiều mây,NTN 13 km/h,65%,2.8 (Trung bình)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,hôm nay,16,30°,Có mây,TN 13 km/h,70%,0.6 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,hôm nay,17,28°,Mưa,TN 13 km/h,82%,0.2 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,hôm nay,18,27°,Mưa,TN 13 km/h,84%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,hôm nay,19,27°,Có mây,TN 11 km/h,87%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,hôm nay,20,27°,Có mây,TN 11 km/h,88%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,hôm nay,21,27°,Có mây,TN 11 km/h,91%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,hôm nay,22,26°,Mưa dông,TN 9 km/h,93%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,hôm nay,23,26°,Mưa dông,TN 9 km/h,94%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,00,26°,Có mây,TN 9 km/h,94%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,01,26°,Có mây,TN 9 km/h,94%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,02,26°,Có mây,TN 7 km/h,95%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,03,26°,Có mây,TN 7 km/h,94%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,04,26°,Mưa rào,TN 6 km/h,94%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,05,25°,Có mây,BTB 6 km/h,98%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,06,26°,Có mây,BTB 6 km/h,95%,0.0 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,07,26°,Có mây,TB 6 km/h,92%,0.3 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,08,28°,Có mây,T 7 km/h,86%,0.6 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,09,29°,Có mây,T 9 km/h,80%,1.0 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,10,30°,Mưa rào,T 9 km/h,74%,1.5 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,11,29°,Mưa,T 11 km/h,84%,2.0 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,12,31°,Có mây,T 11 km/h,70%,5.6 (Cao)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,13,31°,Mưa,T 11 km/h,76%,1.8 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,14,32°,Có mây,T 11 km/h,66%,3.4 (Trung bình)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,15,34°,Có mây,TTN 11 km/h,57%,2.0 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,16,32°,Mưa,TTN 11 km/h,63%,0.5 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,17,31°,Có mây,TTN 9 km/h,69%,0.6 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,18,30°,Mưa,TN 9 km/h,78%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,19,29°,Có mây,TN 9 km/h,81%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,20,28°,Có mây,TN 7 km/h,83%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,21,27°,Có mây,TN 7 km/h,85%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,22,27°,Có mây,TTN 7 km/h,87%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,ngày mai,23,27°,Có mây,TTN 7 km/h,87%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,00,27°,Có mây,TTN 7 km/h,90%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,01,26°,Có mây,TTN 7 km/h,92%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,02,26°,Có mây,T 7 km/h,93%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,03,26°,Có mây,T 6 km/h,93%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,04,26°,Có mây,TTB 6 km/h,94%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,05,25°,Có mây,TTB 6 km/h,97%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,06,26°,Có mây,TB 4 km/h,94%,0.0 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,07,27°,Có mây,TB 4 km/h,91%,0.3 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,08,28°,Mưa rào,TTN 4 km/h,86%,0.5 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,09,29°,Mưa,N 6 km/h,79%,0.8 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,10,30°,Có mây,N 6 km/h,74%,1.7 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,11,31°,Có mây,NTN 7 km/h,70%,2.5 (Trung bình)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,12,32°,Mưa,NTN 7 km/h,69%,2.5 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,13,31°,Mưa,TN 9 km/h,68%,1.8 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,14,31°,Có mây,TN 9 km/h,71%,1.7 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,15,31°,Có mây,TN 9 km/h,70%,1.0 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,16,31°,Mưa,NTN 9 km/h,70%,0.5 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,17,30°,Mưa,NTN 9 km/h,75%,0.3 (Thấp)
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,18,29°,Có mây,NTN 7 km/h,80%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,19,28°,Mưa dông,NTN 7 km/h,83%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,20,28°,Mưa dông,NTN 7 km/h,85%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,21,27°,Mưa dông,NTN 6 km/h,86%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,22,27°,Có mây,NTN 6 km/h,88%,
+CÁCH MẠNG THÁNG 8,129A CMT8 PHƯỜNG 5 Quận 3,10.774605,106.68866,Quận 3,2 ngày tới,23,27°,Có mây,TN 6 km/h,89%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,hôm nay,14,33°,Nhiều mây,NTN 13 km/h,59%,5.0 (Trung bình)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,hôm nay,15,31°,Nhiều mây,NTN 13 km/h,65%,2.8 (Trung bình)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,hôm nay,16,30°,Có mây,TN 13 km/h,70%,0.6 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,hôm nay,17,28°,Mưa,TN 13 km/h,82%,0.2 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,hôm nay,18,27°,Mưa,TN 13 km/h,84%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,hôm nay,19,27°,Có mây,TN 11 km/h,87%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,hôm nay,20,27°,Có mây,TN 11 km/h,88%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,hôm nay,21,27°,Có mây,TN 11 km/h,91%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,hôm nay,22,26°,Mưa dông,TN 9 km/h,93%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,hôm nay,23,26°,Mưa dông,TN 9 km/h,94%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,00,26°,Có mây,TN 9 km/h,94%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,01,26°,Có mây,TN 9 km/h,94%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,02,26°,Có mây,TN 7 km/h,95%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,03,26°,Có mây,TN 7 km/h,94%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,04,26°,Mưa rào,TN 6 km/h,94%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,05,25°,Có mây,BTB 6 km/h,98%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,06,26°,Có mây,BTB 6 km/h,95%,0.0 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,07,26°,Có mây,TB 6 km/h,92%,0.3 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,08,28°,Có mây,T 7 km/h,86%,0.6 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,09,29°,Có mây,T 9 km/h,80%,1.0 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,10,30°,Mưa rào,T 9 km/h,74%,1.5 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,11,29°,Mưa,T 11 km/h,84%,2.0 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,12,31°,Có mây,T 11 km/h,70%,5.6 (Cao)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,13,31°,Mưa,T 11 km/h,76%,1.8 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,14,32°,Có mây,T 11 km/h,66%,3.4 (Trung bình)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,15,34°,Có mây,TTN 11 km/h,57%,2.0 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,16,32°,Mưa,TTN 11 km/h,63%,0.5 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,17,31°,Có mây,TTN 9 km/h,69%,0.6 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,18,30°,Mưa,TN 9 km/h,78%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,19,29°,Có mây,TN 9 km/h,81%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,20,28°,Có mây,TN 7 km/h,83%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,21,27°,Có mây,TN 7 km/h,85%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,22,27°,Có mây,TTN 7 km/h,87%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,ngày mai,23,27°,Có mây,TTN 7 km/h,87%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,00,27°,Có mây,TTN 7 km/h,90%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,01,26°,Có mây,TTN 7 km/h,92%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,02,26°,Có mây,T 7 km/h,93%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,03,26°,Có mây,T 6 km/h,93%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,04,26°,Có mây,TTB 6 km/h,94%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,05,25°,Có mây,TTB 6 km/h,97%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,06,26°,Có mây,TB 4 km/h,94%,0.0 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,07,27°,Có mây,TB 4 km/h,91%,0.3 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,08,28°,Mưa rào,TTN 4 km/h,86%,0.5 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,09,29°,Mưa,N 6 km/h,79%,0.8 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,10,30°,Có mây,N 6 km/h,74%,1.7 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,11,31°,Có mây,NTN 7 km/h,70%,2.5 (Trung bình)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,12,32°,Mưa,NTN 7 km/h,69%,2.5 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,13,31°,Mưa,TN 9 km/h,68%,1.8 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,14,31°,Có mây,TN 9 km/h,71%,1.7 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,15,31°,Có mây,TN 9 km/h,70%,1.0 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,16,31°,Mưa,NTN 9 km/h,70%,0.5 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,17,30°,Mưa,NTN 9 km/h,75%,0.3 (Thấp)
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,18,29°,Có mây,NTN 7 km/h,80%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,19,28°,Mưa dông,NTN 7 km/h,83%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,20,28°,Mưa dông,NTN 7 km/h,85%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,21,27°,Mưa dông,NTN 6 km/h,86%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,22,27°,Có mây,NTN 6 km/h,88%,
+TRẦN NÃO,18 TRẦN NÃO PHƯỜNG BÌNH AN Quận 2,10.793933,106.730746,Quận 2,2 ngày tới,23,27°,Có mây,TN 6 km/h,89%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,hôm nay,14,33°,Nhiều mây,NTN 13 km/h,59%,5.0 (Trung bình)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,hôm nay,15,31°,Nhiều mây,NTN 13 km/h,65%,2.8 (Trung bình)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,hôm nay,16,30°,Có mây,TN 13 km/h,70%,0.6 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,hôm nay,17,28°,Mưa,TN 13 km/h,82%,0.2 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,hôm nay,18,27°,Mưa,TN 13 km/h,84%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,hôm nay,19,27°,Có mây,TN 11 km/h,87%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,hôm nay,20,27°,Có mây,TN 11 km/h,88%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,hôm nay,21,27°,Có mây,TN 11 km/h,91%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,hôm nay,22,26°,Mưa dông,TN 9 km/h,93%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,hôm nay,23,26°,Mưa dông,TN 9 km/h,94%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,00,26°,Có mây,TN 9 km/h,94%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,01,26°,Có mây,TN 9 km/h,94%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,02,26°,Có mây,TN 7 km/h,95%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,03,26°,Có mây,TN 7 km/h,94%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,04,26°,Mưa rào,TN 6 km/h,94%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,05,25°,Có mây,BTB 6 km/h,98%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,06,26°,Có mây,BTB 6 km/h,95%,0.0 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,07,26°,Có mây,TB 6 km/h,92%,0.3 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,08,28°,Có mây,T 7 km/h,86%,0.6 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,09,29°,Có mây,T 9 km/h,80%,1.0 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,10,30°,Mưa rào,T 9 km/h,74%,1.5 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,11,29°,Mưa,T 11 km/h,84%,2.0 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,12,31°,Có mây,T 11 km/h,70%,5.6 (Cao)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,13,31°,Mưa,T 11 km/h,76%,1.8 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,14,32°,Có mây,T 11 km/h,66%,3.4 (Trung bình)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,15,34°,Có mây,TTN 11 km/h,57%,2.0 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,16,32°,Mưa,TTN 11 km/h,63%,0.5 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,17,31°,Có mây,TTN 9 km/h,69%,0.6 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,18,30°,Mưa,TN 9 km/h,78%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,19,29°,Có mây,TN 9 km/h,81%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,20,28°,Có mây,TN 7 km/h,83%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,21,27°,Có mây,TN 7 km/h,85%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,22,27°,Có mây,TTN 7 km/h,87%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,ngày mai,23,27°,Có mây,TTN 7 km/h,87%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,00,27°,Có mây,TTN 7 km/h,90%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,01,26°,Có mây,TTN 7 km/h,92%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,02,26°,Có mây,T 7 km/h,93%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,03,26°,Có mây,T 6 km/h,93%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,04,26°,Có mây,TTB 6 km/h,94%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,05,25°,Có mây,TTB 6 km/h,97%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,06,26°,Có mây,TB 4 km/h,94%,0.0 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,07,27°,Có mây,TB 4 km/h,91%,0.3 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,08,28°,Mưa rào,TTN 4 km/h,86%,0.5 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,09,29°,Mưa,N 6 km/h,79%,0.8 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,10,30°,Có mây,N 6 km/h,74%,1.7 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,11,31°,Có mây,NTN 7 km/h,70%,2.5 (Trung bình)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,12,32°,Mưa,NTN 7 km/h,69%,2.5 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,13,31°,Mưa,TN 9 km/h,68%,1.8 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,14,31°,Có mây,TN 9 km/h,71%,1.7 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,15,31°,Có mây,TN 9 km/h,70%,1.0 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,16,31°,Mưa,NTN 9 km/h,70%,0.5 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,17,30°,Mưa,NTN 9 km/h,75%,0.3 (Thấp)
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,18,29°,Có mây,NTN 7 km/h,80%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,19,28°,Mưa dông,NTN 7 km/h,83%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,20,28°,Mưa dông,NTN 7 km/h,85%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,21,27°,Mưa dông,NTN 6 km/h,86%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,22,27°,Có mây,NTN 6 km/h,88%,
+NGUYỄN TRI PHƯƠNG,465 NGUYỄN TRI PHƯƠNG PHƯỜNG 4 Quận 10,10.764613,106.667717,Quận 10,2 ngày tới,23,27°,Có mây,TN 6 km/h,89%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,hôm nay,14,33°,Nhiều mây,NTN 13 km/h,59%,5.0 (Trung bình)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,hôm nay,15,31°,Nhiều mây,NTN 13 km/h,65%,2.8 (Trung bình)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,hôm nay,16,30°,Có mây,TN 13 km/h,70%,0.6 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,hôm nay,17,28°,Mưa,TN 13 km/h,82%,0.2 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,hôm nay,18,27°,Mưa,TN 13 km/h,84%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,hôm nay,19,27°,Có mây,TN 11 km/h,87%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,hôm nay,20,27°,Có mây,TN 11 km/h,88%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,hôm nay,21,27°,Có mây,TN 11 km/h,91%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,hôm nay,22,26°,Mưa dông,TN 9 km/h,93%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,hôm nay,23,26°,Mưa dông,TN 9 km/h,94%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,00,26°,Có mây,TN 9 km/h,94%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,01,26°,Có mây,TN 9 km/h,94%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,02,26°,Có mây,TN 7 km/h,95%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,03,26°,Có mây,TN 7 km/h,94%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,04,26°,Mưa rào,TN 6 km/h,94%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,05,25°,Có mây,BTB 6 km/h,98%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,06,26°,Có mây,BTB 6 km/h,95%,0.0 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,07,26°,Có mây,TB 6 km/h,92%,0.3 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,08,28°,Có mây,T 7 km/h,86%,0.6 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,09,29°,Có mây,T 9 km/h,80%,1.0 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,10,30°,Mưa rào,T 9 km/h,74%,1.5 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,11,29°,Mưa,T 11 km/h,84%,2.0 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,12,31°,Có mây,T 11 km/h,70%,5.6 (Cao)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,13,31°,Mưa,T 11 km/h,76%,1.8 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,14,32°,Có mây,T 11 km/h,66%,3.4 (Trung bình)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,15,34°,Có mây,TTN 11 km/h,57%,2.0 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,16,32°,Mưa,TTN 11 km/h,63%,0.5 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,17,31°,Có mây,TTN 9 km/h,69%,0.6 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,18,30°,Mưa,TN 9 km/h,78%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,19,29°,Có mây,TN 9 km/h,81%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,20,28°,Có mây,TN 7 km/h,83%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,21,27°,Có mây,TN 7 km/h,85%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,22,27°,Có mây,TTN 7 km/h,87%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,ngày mai,23,27°,Có mây,TTN 7 km/h,87%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,00,27°,Có mây,TTN 7 km/h,90%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,01,26°,Có mây,TTN 7 km/h,92%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,02,26°,Có mây,T 7 km/h,93%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,03,26°,Có mây,T 6 km/h,93%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,04,26°,Có mây,TTB 6 km/h,94%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,05,25°,Có mây,TTB 6 km/h,97%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,06,26°,Có mây,TB 4 km/h,94%,0.0 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,07,27°,Có mây,TB 4 km/h,91%,0.3 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,08,28°,Mưa rào,TTN 4 km/h,86%,0.5 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,09,29°,Mưa,N 6 km/h,79%,0.8 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,10,30°,Có mây,N 6 km/h,74%,1.7 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,11,31°,Có mây,NTN 7 km/h,70%,2.5 (Trung bình)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,12,32°,Mưa,NTN 7 km/h,69%,2.5 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,13,31°,Mưa,TN 9 km/h,68%,1.8 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,14,31°,Có mây,TN 9 km/h,71%,1.7 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,15,31°,Có mây,TN 9 km/h,70%,1.0 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,16,31°,Mưa,NTN 9 km/h,70%,0.5 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,17,30°,Mưa,NTN 9 km/h,75%,0.3 (Thấp)
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,18,29°,Có mây,NTN 7 km/h,80%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,19,28°,Mưa dông,NTN 7 km/h,83%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,20,28°,Mưa dông,NTN 7 km/h,85%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,21,27°,Mưa dông,NTN 6 km/h,86%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,22,27°,Có mây,NTN 6 km/h,88%,
+ĐỒNG ĐEN,124A ĐỒNG ĐEN PHƯỜNG 14 Quận Tân Bình,10.792324,106.664003,Tân Bình,2 ngày tới,23,27°,Có mây,TN 6 km/h,89%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,hôm nay,14,33°,Nhiều mây,NTN 13 km/h,59%,5.0 (Trung bình)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,hôm nay,15,31°,Nhiều mây,NTN 13 km/h,65%,2.8 (Trung bình)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,hôm nay,16,30°,Có mây,TN 13 km/h,70%,0.6 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,hôm nay,17,28°,Mưa,TN 13 km/h,82%,0.2 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,hôm nay,18,27°,Mưa,TN 13 km/h,84%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,hôm nay,19,27°,Có mây,TN 11 km/h,87%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,hôm nay,20,27°,Có mây,TN 11 km/h,88%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,hôm nay,21,27°,Có mây,TN 11 km/h,91%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,hôm nay,22,26°,Mưa dông,TN 9 km/h,93%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,hôm nay,23,26°,Mưa dông,TN 9 km/h,94%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,00,26°,Có mây,TN 9 km/h,94%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,01,26°,Có mây,TN 9 km/h,94%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,02,26°,Có mây,TN 7 km/h,95%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,03,26°,Có mây,TN 7 km/h,94%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,04,26°,Mưa rào,TN 6 km/h,94%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,05,25°,Có mây,BTB 6 km/h,98%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,06,26°,Có mây,BTB 6 km/h,95%,0.0 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,07,26°,Có mây,TB 6 km/h,92%,0.3 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,08,28°,Có mây,T 7 km/h,86%,0.6 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,09,29°,Có mây,T 9 km/h,80%,1.0 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,10,30°,Mưa rào,T 9 km/h,74%,1.5 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,11,29°,Mưa,T 11 km/h,84%,2.0 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,12,31°,Có mây,T 11 km/h,70%,5.6 (Cao)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,13,31°,Mưa,T 11 km/h,76%,1.8 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,14,32°,Có mây,T 11 km/h,66%,3.4 (Trung bình)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,15,34°,Có mây,TTN 11 km/h,57%,2.0 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,16,32°,Mưa,TTN 11 km/h,63%,0.5 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,17,31°,Có mây,TTN 9 km/h,69%,0.6 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,18,30°,Mưa,TN 9 km/h,78%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,19,29°,Có mây,TN 9 km/h,81%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,20,28°,Có mây,TN 7 km/h,83%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,21,27°,Có mây,TN 7 km/h,85%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,22,27°,Có mây,TTN 7 km/h,87%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,ngày mai,23,27°,Có mây,TTN 7 km/h,87%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,00,27°,Có mây,TTN 7 km/h,90%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,01,26°,Có mây,TTN 7 km/h,92%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,02,26°,Có mây,T 7 km/h,93%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,03,26°,Có mây,T 6 km/h,93%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,04,26°,Có mây,TTB 6 km/h,94%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,05,25°,Có mây,TTB 6 km/h,97%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,06,26°,Có mây,TB 4 km/h,94%,0.0 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,07,27°,Có mây,TB 4 km/h,91%,0.3 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,08,28°,Mưa rào,TTN 4 km/h,86%,0.5 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,09,29°,Mưa,N 6 km/h,79%,0.8 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,10,30°,Có mây,N 6 km/h,74%,1.7 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,11,31°,Có mây,NTN 7 km/h,70%,2.5 (Trung bình)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,12,32°,Mưa,NTN 7 km/h,69%,2.5 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,13,31°,Mưa,TN 9 km/h,68%,1.8 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,14,31°,Có mây,TN 9 km/h,71%,1.7 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,15,31°,Có mây,TN 9 km/h,70%,1.0 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,16,31°,Mưa,NTN 9 km/h,70%,0.5 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,17,30°,Mưa,NTN 9 km/h,75%,0.3 (Thấp)
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,18,29°,Có mây,NTN 7 km/h,80%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,19,28°,Mưa dông,NTN 7 km/h,83%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,20,28°,Mưa dông,NTN 7 km/h,85%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,21,27°,Mưa dông,NTN 6 km/h,86%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,22,27°,Có mây,NTN 6 km/h,88%,
+PHAN CHU TRINH,39-41 PHAN CHU TRINH PHƯỜNG 14 Quận Bình Thạnh,10.804464,106.701516,Bình Thạnh,2 ngày tới,23,27°,Có mây,TN 6 km/h,89%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,hôm nay,14,32°,Mưa rào,N 13 km/h,66%,3.1 (Trung bình)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,hôm nay,15,30°,Có mây,N 11 km/h,70%,2.0 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,hôm nay,16,29°,Có mây,NTN 11 km/h,73%,1.2 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,hôm nay,17,28°,Mưa,N 11 km/h,83%,0.2 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,hôm nay,18,27°,Có mây,N 11 km/h,82%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,hôm nay,19,27°,Có mây,N 11 km/h,82%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,hôm nay,20,27°,Có mây,N 11 km/h,83%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,hôm nay,21,27°,Có mây,N 11 km/h,85%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,hôm nay,22,27°,Có mây,N 11 km/h,85%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,hôm nay,23,26°,Có mây,N 9 km/h,87%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,00,26°,Có mây,N 9 km/h,89%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,01,26°,Có mây,N 7 km/h,90%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,02,25°,Có mây,NĐN 7 km/h,91%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,03,25°,Có mây,ĐĐN 7 km/h,92%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,04,25°,Có mây,ĐĐB 7 km/h,93%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,05,24°,Có mây,ĐĐB 7 km/h,96%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,06,25°,Có mây,ĐB 7 km/h,93%,0.0 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,07,26°,Có mây,ĐB 7 km/h,89%,0.6 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,08,27°,Có mây,B 7 km/h,82%,1.2 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,09,29°,Có mây,TTB 7 km/h,76%,2.1 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,10,30°,Có mây,T 7 km/h,71%,1.8 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,11,31°,Mưa dông,T 9 km/h,67%,2.8 (Trung bình)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,12,32°,Mưa dông,TTB 9 km/h,68%,2.5 (Trung bình)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,13,33°,Có mây,TTB 9 km/h,61%,5.4 (Trung bình)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,14,34°,Có mây,TTN 9 km/h,58%,3.5 (Trung bình)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,15,33°,Mưa,NTN 11 km/h,69%,0.8 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,16,32°,Có mây,NTN 11 km/h,67%,1.2 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,17,31°,Có mây,NTN 11 km/h,69%,0.6 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,18,30°,Có mây,N 9 km/h,72%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,19,30°,Có mây,NTN 9 km/h,74%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,20,29°,Có mây,NTN 7 km/h,78%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,21,28°,Có mây,TN 7 km/h,82%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,22,28°,Có mây,TN 7 km/h,82%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,ngày mai,23,28°,Có mây,TTN 9 km/h,83%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,00,27°,Có mây,TTN 9 km/h,86%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,01,26°,Có mây,TTN 7 km/h,89%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,02,26°,Có mây,T 7 km/h,90%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,03,26°,Có mây,TTB 7 km/h,90%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,04,25°,Có mây,TB 6 km/h,92%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,05,24°,Có mây,BTB 6 km/h,98%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,06,25°,Có mây,BĐB 6 km/h,94%,0.0 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,07,26°,Mưa rào,ĐĐB 4 km/h,92%,0.3 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,08,27°,Mưa,Đ 6 km/h,85%,0.5 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,09,29°,Mưa rào,ĐĐN 6 km/h,79%,1.1 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,10,30°,Có mây,ĐN 6 km/h,73%,3.4 (Trung bình)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,11,31°,Có mây,ĐN 7 km/h,68%,5.1 (Trung bình)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,12,32°,Mưa,NĐN 7 km/h,65%,2.7 (Trung bình)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,13,32°,Mưa,NĐN 9 km/h,70%,1.8 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,14,33°,Mưa rào,N 9 km/h,60%,1.8 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,15,31°,Có mây,N 9 km/h,67%,2.0 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,16,32°,Mưa rào,N 9 km/h,66%,0.6 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,17,30°,Mưa rào,N 9 km/h,72%,0.3 (Thấp)
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,18,29°,Có mây,NĐN 7 km/h,77%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,19,28°,Có mây,ĐN 4 km/h,83%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,20,27°,Có mây,NĐN 6 km/h,87%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,21,26°,Có mây,NĐN 7 km/h,89%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,22,25°,Có mây,NĐN 6 km/h,91%,
+ĐẠI LỘ 2,"168 ICOOL ĐẠI LỘ 2 PHƯỜNG PHƯỚC BÌNH, TP Thủ Đức",10.780672,106.7122688,TP Thủ Đức,2 ngày tới,23,25°,Có mây,N 6 km/h,90%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,hôm nay,14,30°,Mưa,TN 15 km/h,76%,1.5 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,hôm nay,15,29°,Có mây,TN 15 km/h,77%,2.1 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,hôm nay,16,29°,Mưa,TN 15 km/h,80%,0.6 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,hôm nay,17,29°,Mưa,TN 15 km/h,80%,0.3 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,hôm nay,18,28°,Có mây,TN 15 km/h,80%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,hôm nay,19,28°,Có mây,TTN 13 km/h,81%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,hôm nay,20,28°,Có mây,TTN 13 km/h,83%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,hôm nay,21,27°,Có mây,TTN 13 km/h,86%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,hôm nay,22,27°,Có mây,T 13 km/h,86%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,hôm nay,23,27°,Có mây,T 13 km/h,88%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,00,26°,Có mây,T 13 km/h,90%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,01,25°,Có mây,T 13 km/h,95%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,02,26°,Có mây,TTB 11 km/h,91%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,03,26°,Có mây,TTB 7 km/h,89%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,04,27°,Có mây,TTB 6 km/h,87%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,05,27°,Có mây,TB 7 km/h,88%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,06,27°,Có mây,TB 9 km/h,86%,0.0 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,07,27°,Có mây,TB 9 km/h,85%,0.5 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,08,28°,Có mây,TB 9 km/h,81%,1.0 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,09,29°,Có mây,TTB 9 km/h,77%,1.7 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,10,30°,Có mây,T 11 km/h,73%,2.1 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,11,31°,Có mây,TTN 11 km/h,69%,3.1 (Trung bình)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,12,32°,Có mây,NTN 11 km/h,66%,5.9 (Cao)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,13,30°,Mưa,NTN 11 km/h,80%,2.2 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,14,31°,Mưa,N 13 km/h,68%,1.7 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,15,33°,Có mây,N 13 km/h,60%,2.1 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,16,33°,Có mây,N 11 km/h,63%,0.6 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,17,32°,Có mây,N 11 km/h,65%,0.6 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,18,31°,Có mây,N 9 km/h,71%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,19,31°,Có mây,N 7 km/h,74%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,20,30°,Có mây,NTN 9 km/h,76%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,21,29°,Có mây,TN 9 km/h,79%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,22,29°,Có mây,TN 11 km/h,81%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,ngày mai,23,29°,Có mây,TTN 9 km/h,81%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,00,28°,Có mây,TTN 11 km/h,81%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,01,27°,Có mây,T 11 km/h,84%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,02,27°,Mưa,T 11 km/h,85%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,03,27°,Có mây,TTB 11 km/h,85%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,04,27°,Có mây,TB 11 km/h,86%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,05,26°,Mưa rào,TB 9 km/h,93%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,06,26°,Có mây,TB 9 km/h,90%,0.0 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,07,27°,Có mây,TTB 9 km/h,90%,0.6 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,08,27°,Có mây,T 9 km/h,87%,1.2 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,09,28°,Mưa,TTN 9 km/h,83%,1.0 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,10,29°,Mưa,TN 9 km/h,79%,1.7 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,11,29°,Mưa,NTN 11 km/h,76%,2.5 (Trung bình)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,12,30°,Có mây,NTN 13 km/h,74%,3.1 (Trung bình)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,13,31°,Có mây,NTN 13 km/h,71%,5.2 (Trung bình)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,14,30°,Có mây,NTN 13 km/h,73%,3.5 (Trung bình)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,15,29°,Mưa,NTN 13 km/h,81%,0.8 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,16,29°,Có mây,NTN 11 km/h,79%,1.2 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,17,29°,Mưa,NTN 11 km/h,79%,0.3 (Thấp)
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,18,29°,Có mây,TN 9 km/h,81%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,19,28°,Có mây,TN 7 km/h,84%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,20,28°,Có mây,TN 7 km/h,86%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,21,28°,Có mây,NTN 7 km/h,86%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,22,28°,Có mây,NTN 7 km/h,86%,
+VŨNG TÀU,"130 HOÀNG HOA THÁM P2, TP Vũng Tàu",10.337067,107.085835,TP Vũng Tàu,2 ngày tới,23,27°,Có mây,TN 7 km/h,86%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,hôm nay,14,33°,Nhiều mây,NTN 13 km/h,59%,5.0 (Trung bình)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,hôm nay,15,31°,Nhiều mây,NTN 13 km/h,65%,2.8 (Trung bình)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,hôm nay,16,30°,Có mây,TN 13 km/h,70%,0.6 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,hôm nay,17,28°,Mưa,TN 13 km/h,82%,0.2 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,hôm nay,18,27°,Mưa,TN 13 km/h,84%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,hôm nay,19,27°,Có mây,TN 11 km/h,87%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,hôm nay,20,27°,Có mây,TN 11 km/h,88%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,hôm nay,21,27°,Có mây,TN 11 km/h,91%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,hôm nay,22,26°,Mưa dông,TN 9 km/h,93%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,hôm nay,23,26°,Mưa dông,TN 9 km/h,94%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,00,26°,Có mây,TN 9 km/h,94%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,01,26°,Có mây,TN 9 km/h,94%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,02,26°,Có mây,TN 7 km/h,95%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,03,26°,Có mây,TN 7 km/h,94%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,04,26°,Mưa rào,TN 6 km/h,94%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,05,25°,Có mây,BTB 6 km/h,98%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,06,26°,Có mây,BTB 6 km/h,95%,0.0 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,07,26°,Có mây,TB 6 km/h,92%,0.3 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,08,28°,Có mây,T 7 km/h,86%,0.6 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,09,29°,Có mây,T 9 km/h,80%,1.0 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,10,30°,Mưa rào,T 9 km/h,74%,1.5 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,11,29°,Mưa,T 11 km/h,84%,2.0 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,12,31°,Có mây,T 11 km/h,70%,5.6 (Cao)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,13,31°,Mưa,T 11 km/h,76%,1.8 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,14,32°,Có mây,T 11 km/h,66%,3.4 (Trung bình)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,15,34°,Có mây,TTN 11 km/h,57%,2.0 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,16,32°,Mưa,TTN 11 km/h,63%,0.5 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,17,31°,Có mây,TTN 9 km/h,69%,0.6 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,18,30°,Mưa,TN 9 km/h,78%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,19,29°,Có mây,TN 9 km/h,81%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,20,28°,Có mây,TN 7 km/h,83%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,21,27°,Có mây,TN 7 km/h,85%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,22,27°,Có mây,TTN 7 km/h,87%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,ngày mai,23,27°,Có mây,TTN 7 km/h,87%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,00,27°,Có mây,TTN 7 km/h,90%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,01,26°,Có mây,TTN 7 km/h,92%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,02,26°,Có mây,T 7 km/h,93%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,03,26°,Có mây,T 6 km/h,93%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,04,26°,Có mây,TTB 6 km/h,94%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,05,25°,Có mây,TTB 6 km/h,97%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,06,26°,Có mây,TB 4 km/h,94%,0.0 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,07,27°,Có mây,TB 4 km/h,91%,0.3 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,08,28°,Mưa rào,TTN 4 km/h,86%,0.5 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,09,29°,Mưa,N 6 km/h,79%,0.8 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,10,30°,Có mây,N 6 km/h,74%,1.7 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,11,31°,Có mây,NTN 7 km/h,70%,2.5 (Trung bình)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,12,32°,Mưa,NTN 7 km/h,69%,2.5 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,13,31°,Mưa,TN 9 km/h,68%,1.8 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,14,31°,Có mây,TN 9 km/h,71%,1.7 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,15,31°,Có mây,TN 9 km/h,70%,1.0 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,16,31°,Mưa,NTN 9 km/h,70%,0.5 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,17,30°,Mưa,NTN 9 km/h,75%,0.3 (Thấp)
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,18,29°,Có mây,NTN 7 km/h,80%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,19,28°,Mưa dông,NTN 7 km/h,83%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,20,28°,Mưa dông,NTN 7 km/h,85%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,21,27°,Mưa dông,NTN 6 km/h,86%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,22,27°,Có mây,NTN 6 km/h,88%,
+SƯ VẠN HẠNH,"644 Đ. SƯ VẠN HẠNH, PHƯỜNG 12, Quận 10.",10.7701407,106.6706353,Quận 10,2 ngày tới,23,27°,Có mây,TN 6 km/h,89%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,hôm nay,14,33°,Nhiều mây,NTN 13 km/h,59%,5.0 (Trung bình)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,hôm nay,15,31°,Nhiều mây,NTN 13 km/h,65%,2.8 (Trung bình)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,hôm nay,16,30°,Có mây,TN 13 km/h,70%,0.6 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,hôm nay,17,28°,Mưa,TN 13 km/h,82%,0.2 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,hôm nay,18,27°,Mưa,TN 13 km/h,84%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,hôm nay,19,27°,Có mây,TN 11 km/h,87%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,hôm nay,20,27°,Có mây,TN 11 km/h,88%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,hôm nay,21,27°,Có mây,TN 11 km/h,91%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,hôm nay,22,26°,Mưa dông,TN 9 km/h,93%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,hôm nay,23,26°,Mưa dông,TN 9 km/h,94%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,00,26°,Có mây,TN 9 km/h,94%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,01,26°,Có mây,TN 9 km/h,94%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,02,26°,Có mây,TN 7 km/h,95%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,03,26°,Có mây,TN 7 km/h,94%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,04,26°,Mưa rào,TN 6 km/h,94%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,05,25°,Có mây,BTB 6 km/h,98%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,06,26°,Có mây,BTB 6 km/h,95%,0.0 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,07,26°,Có mây,TB 6 km/h,92%,0.3 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,08,28°,Có mây,T 7 km/h,86%,0.6 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,09,29°,Có mây,T 9 km/h,80%,1.0 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,10,30°,Mưa rào,T 9 km/h,74%,1.5 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,11,29°,Mưa,T 11 km/h,84%,2.0 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,12,31°,Có mây,T 11 km/h,70%,5.6 (Cao)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,13,31°,Mưa,T 11 km/h,76%,1.8 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,14,32°,Có mây,T 11 km/h,66%,3.4 (Trung bình)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,15,34°,Có mây,TTN 11 km/h,57%,2.0 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,16,32°,Mưa,TTN 11 km/h,63%,0.5 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,17,31°,Có mây,TTN 9 km/h,69%,0.6 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,18,30°,Mưa,TN 9 km/h,78%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,19,29°,Có mây,TN 9 km/h,81%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,20,28°,Có mây,TN 7 km/h,83%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,21,27°,Có mây,TN 7 km/h,85%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,22,27°,Có mây,TTN 7 km/h,87%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,ngày mai,23,27°,Có mây,TTN 7 km/h,87%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,00,27°,Có mây,TTN 7 km/h,90%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,01,26°,Có mây,TTN 7 km/h,92%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,02,26°,Có mây,T 7 km/h,93%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,03,26°,Có mây,T 6 km/h,93%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,04,26°,Có mây,TTB 6 km/h,94%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,05,25°,Có mây,TTB 6 km/h,97%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,06,26°,Có mây,TB 4 km/h,94%,0.0 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,07,27°,Có mây,TB 4 km/h,91%,0.3 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,08,28°,Mưa rào,TTN 4 km/h,86%,0.5 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,09,29°,Mưa,N 6 km/h,79%,0.8 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,10,30°,Có mây,N 6 km/h,74%,1.7 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,11,31°,Có mây,NTN 7 km/h,70%,2.5 (Trung bình)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,12,32°,Mưa,NTN 7 km/h,69%,2.5 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,13,31°,Mưa,TN 9 km/h,68%,1.8 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,14,31°,Có mây,TN 9 km/h,71%,1.7 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,15,31°,Có mây,TN 9 km/h,70%,1.0 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,16,31°,Mưa,NTN 9 km/h,70%,0.5 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,17,30°,Mưa,NTN 9 km/h,75%,0.3 (Thấp)
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,18,29°,Có mây,NTN 7 km/h,80%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,19,28°,Mưa dông,NTN 7 km/h,83%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,20,28°,Mưa dông,NTN 7 km/h,85%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,21,27°,Mưa dông,NTN 6 km/h,86%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,22,27°,Có mây,NTN 6 km/h,88%,
+PHAN XÍCH LONG,266-268-270 PHAN XÍCH LONG PHƯỜNG 7 Quận Phú Nhuận,10.797366,106.691138,Phú Nhuận,2 ngày tới,23,27°,Có mây,TN 6 km/h,89%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,hôm nay,14,32°,Mưa rào,N 13 km/h,66%,3.1 (Trung bình)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,hôm nay,15,30°,Có mây,N 11 km/h,70%,2.0 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,hôm nay,16,29°,Có mây,NTN 11 km/h,73%,1.2 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,hôm nay,17,28°,Mưa,N 11 km/h,83%,0.2 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,hôm nay,18,27°,Có mây,N 11 km/h,82%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,hôm nay,19,27°,Có mây,N 11 km/h,82%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,hôm nay,20,27°,Có mây,N 11 km/h,83%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,hôm nay,21,27°,Có mây,N 11 km/h,85%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,hôm nay,22,27°,Có mây,N 11 km/h,85%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,hôm nay,23,26°,Có mây,N 9 km/h,87%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,00,26°,Có mây,N 9 km/h,89%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,01,26°,Có mây,N 7 km/h,90%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,02,25°,Có mây,NĐN 7 km/h,91%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,03,25°,Có mây,ĐĐN 7 km/h,92%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,04,25°,Có mây,ĐĐB 7 km/h,93%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,05,24°,Có mây,ĐĐB 7 km/h,96%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,06,25°,Có mây,ĐB 7 km/h,93%,0.0 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,07,26°,Có mây,ĐB 7 km/h,89%,0.6 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,08,27°,Có mây,B 7 km/h,82%,1.2 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,09,29°,Có mây,TTB 7 km/h,76%,2.1 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,10,30°,Có mây,T 7 km/h,71%,1.8 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,11,31°,Mưa dông,T 9 km/h,67%,2.8 (Trung bình)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,12,32°,Mưa dông,TTB 9 km/h,68%,2.5 (Trung bình)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,13,33°,Có mây,TTB 9 km/h,61%,5.4 (Trung bình)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,14,34°,Có mây,TTN 9 km/h,58%,3.5 (Trung bình)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,15,33°,Mưa,NTN 11 km/h,69%,0.8 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,16,32°,Có mây,NTN 11 km/h,67%,1.2 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,17,31°,Có mây,NTN 11 km/h,69%,0.6 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,18,30°,Có mây,N 9 km/h,72%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,19,30°,Có mây,NTN 9 km/h,74%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,20,29°,Có mây,NTN 7 km/h,78%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,21,28°,Có mây,TN 7 km/h,82%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,22,28°,Có mây,TN 7 km/h,82%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,ngày mai,23,28°,Có mây,TTN 9 km/h,83%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,00,27°,Có mây,TTN 9 km/h,86%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,01,26°,Có mây,TTN 7 km/h,89%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,02,26°,Có mây,T 7 km/h,90%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,03,26°,Có mây,TTB 7 km/h,90%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,04,25°,Có mây,TB 6 km/h,92%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,05,24°,Có mây,BTB 6 km/h,98%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,06,25°,Có mây,BĐB 6 km/h,94%,0.0 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,07,26°,Mưa rào,ĐĐB 4 km/h,92%,0.3 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,08,27°,Mưa,Đ 6 km/h,85%,0.5 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,09,29°,Mưa rào,ĐĐN 6 km/h,79%,1.1 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,10,30°,Có mây,ĐN 6 km/h,73%,3.4 (Trung bình)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,11,31°,Có mây,ĐN 7 km/h,68%,5.1 (Trung bình)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,12,32°,Mưa,NĐN 7 km/h,65%,2.7 (Trung bình)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,13,32°,Mưa,NĐN 9 km/h,70%,1.8 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,14,33°,Mưa rào,N 9 km/h,60%,1.8 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,15,31°,Có mây,N 9 km/h,67%,2.0 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,16,32°,Mưa rào,N 9 km/h,66%,0.6 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,17,30°,Mưa rào,N 9 km/h,72%,0.3 (Thấp)
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,18,29°,Có mây,NĐN 7 km/h,77%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,19,28°,Có mây,ĐN 4 km/h,83%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,20,27°,Có mây,NĐN 6 km/h,87%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,21,26°,Có mây,NĐN 7 km/h,89%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,22,25°,Có mây,NĐN 6 km/h,91%,
+LÊ VĂN VIỆT,140 LÊ VĂN VIỆT PHƯỜNG HIỆP PHÚ TP Thủ Đức,10.845833,106.779966,TP Thủ Đức,2 ngày tới,23,25°,Có mây,N 6 km/h,90%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,hôm nay,14,32°,Mưa rào,N 13 km/h,66%,3.1 (Trung bình)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,hôm nay,15,30°,Có mây,N 11 km/h,70%,2.0 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,hôm nay,16,29°,Có mây,NTN 11 km/h,73%,1.2 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,hôm nay,17,28°,Mưa,N 11 km/h,83%,0.2 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,hôm nay,18,27°,Có mây,N 11 km/h,82%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,hôm nay,19,27°,Có mây,N 11 km/h,82%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,hôm nay,20,27°,Có mây,N 11 km/h,83%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,hôm nay,21,27°,Có mây,N 11 km/h,85%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,hôm nay,22,27°,Có mây,N 11 km/h,85%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,hôm nay,23,26°,Có mây,N 9 km/h,87%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,00,26°,Có mây,N 9 km/h,89%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,01,26°,Có mây,N 7 km/h,90%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,02,25°,Có mây,NĐN 7 km/h,91%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,03,25°,Có mây,ĐĐN 7 km/h,92%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,04,25°,Có mây,ĐĐB 7 km/h,93%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,05,24°,Có mây,ĐĐB 7 km/h,96%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,06,25°,Có mây,ĐB 7 km/h,93%,0.0 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,07,26°,Có mây,ĐB 7 km/h,89%,0.6 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,08,27°,Có mây,B 7 km/h,82%,1.2 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,09,29°,Có mây,TTB 7 km/h,76%,2.1 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,10,30°,Có mây,T 7 km/h,71%,1.8 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,11,31°,Mưa dông,T 9 km/h,67%,2.8 (Trung bình)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,12,32°,Mưa dông,TTB 9 km/h,68%,2.5 (Trung bình)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,13,33°,Có mây,TTB 9 km/h,61%,5.4 (Trung bình)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,14,34°,Có mây,TTN 9 km/h,58%,3.5 (Trung bình)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,15,33°,Mưa,NTN 11 km/h,69%,0.8 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,16,32°,Có mây,NTN 11 km/h,67%,1.2 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,17,31°,Có mây,NTN 11 km/h,69%,0.6 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,18,30°,Có mây,N 9 km/h,72%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,19,30°,Có mây,NTN 9 km/h,74%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,20,29°,Có mây,NTN 7 km/h,78%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,21,28°,Có mây,TN 7 km/h,82%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,22,28°,Có mây,TN 7 km/h,82%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,ngày mai,23,28°,Có mây,TTN 9 km/h,83%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,00,27°,Có mây,TTN 9 km/h,86%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,01,26°,Có mây,TTN 7 km/h,89%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,02,26°,Có mây,T 7 km/h,90%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,03,26°,Có mây,TTB 7 km/h,90%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,04,25°,Có mây,TB 6 km/h,92%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,05,24°,Có mây,BTB 6 km/h,98%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,06,25°,Có mây,BĐB 6 km/h,94%,0.0 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,07,26°,Mưa rào,ĐĐB 4 km/h,92%,0.3 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,08,27°,Mưa,Đ 6 km/h,85%,0.5 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,09,29°,Mưa rào,ĐĐN 6 km/h,79%,1.1 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,10,30°,Có mây,ĐN 6 km/h,73%,3.4 (Trung bình)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,11,31°,Có mây,ĐN 7 km/h,68%,5.1 (Trung bình)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,12,32°,Mưa,NĐN 7 km/h,65%,2.7 (Trung bình)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,13,32°,Mưa,NĐN 9 km/h,70%,1.8 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,14,33°,Mưa rào,N 9 km/h,60%,1.8 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,15,31°,Có mây,N 9 km/h,67%,2.0 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,16,32°,Mưa rào,N 9 km/h,66%,0.6 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,17,30°,Mưa rào,N 9 km/h,72%,0.3 (Thấp)
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,18,29°,Có mây,NĐN 7 km/h,77%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,19,28°,Có mây,ĐN 4 km/h,83%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,20,27°,Có mây,NĐN 6 km/h,87%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,21,26°,Có mây,NĐN 7 km/h,89%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,22,25°,Có mây,NĐN 6 km/h,91%,
+HOÀNG DIỆU 2,"66G Hoàng Diệu 2, Phường Linh Chiểu, TP Thủ Đức",10.8537916,106.7665237,TP Thủ Đức,2 ngày tới,23,25°,Có mây,N 6 km/h,90%,

@@ -1,0 +1,40 @@
+=========================================================
+   Weather Analysis Report (Focus on Precipitation)
+=========================================================
+
+Analysis based on data from 2025-08-01 to 2025-09-30.
+
+--- Overall Weather Summary ---
+Avg Temp (Aug): 28.57°C  |  Avg Temp (Sep): 27.21°C
+Avg Humidity (Aug): 78.78% |  Avg Humidity (Sep): 83.86%
+
+=========================
+   DETAILED RAIN ANALYSIS
+=========================
+
+--- August 2025 Rainfall ---
+Total Precipitation: 6024.50 mm
+Number of Rainy Days: 31 out of 31 days (100.0%)
+Average Daily Rainfall on a Rainy Day: 194.34 mm/day (Intensity)
+
+--- September 2025 Rainfall ---
+Total Precipitation: 6011.50 mm
+Number of Rainy Days: 30 out of 30 days (100.0%)
+Average Daily Rainfall on a Rainy Day: 200.38 mm/day (Intensity)
+
+--- Rainfall Comparison & Key Insights ---
+- August was the wetter month overall, with 13.00 mm more total rainfall.
+- Rain was more frequent in September, occurring on 100.0% of days compared to 100.0% in August.
+- When it did rain, downpours were more intense in September (avg. 200.38 mm/day) than in August (avg. 194.34 mm/day).
+
+--- Top 5 Days with Heaviest Total Rainfall ---
+  1. Date: 2025-08-21, Total Precipitation: 2647.3 mm
+  2. Date: 2025-08-12, Total Precipitation: 464.6 mm
+  3. Date: 2025-09-14, Total Precipitation: 454.5 mm
+  4. Date: 2025-09-27, Total Precipitation: 383.2 mm
+  5. Date: 2025-08-15, Total Precipitation: 358.8 mm
+
+--- Data Quality Note ---
+Some records in September (starting from 2025-09-11) have missing precipitation details. This means the total rainfall and number of rainy days for September may be underreported, affecting the accuracy of the comparison.
+
+========================= End of Report =========================

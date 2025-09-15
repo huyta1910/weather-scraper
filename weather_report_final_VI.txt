@@ -1,0 +1,39 @@
+=========================================================
+   Báo cáo Phân tích Thời tiết (Tập trung vào Lượng mưa)
+=========================================================
+
+Phân tích dựa trên dữ liệu từ ngày 2025-08-01 đến 2025-09-30.
+
+--- Tóm tắt Tổng quan về Thời tiết ---
+Nhiệt độ TB (Tháng 8): 28.57°C  |  Nhiệt độ TB (Tháng 9): 27.21°C
+Độ ẩm TB (Tháng 8): 78.78%    |  Độ ẩm TB (Tháng 9): 83.86%
+
+=========================
+   PHÂN TÍCH CHI TIẾT VỀ LƯỢNG MƯA
+=========================
+
+--- Lượng mưa Tháng 8 năm 2025 ---
+Tổng Lượng mưa: 6024.50 mm
+Số ngày có mưa: 31 trên tổng số 31 ngày (100.0%)
+Lượng mưa trung bình vào một ngày có mưa: 194.34 mm/ngày (Cường độ)
+
+--- Lượng mưa Tháng 9 năm 2025 ---
+Tổng Lượng mưa: 6011.50 mm
+Số ngày có mưa: 30 trên tổng số 30 ngày (100.0%)
+Lượng mưa trung bình vào một ngày có mưa: 200.38 mm/ngày (Cường độ)
+
+--- So sánh Lượng mưa & Thông tin chi tiết ---
+- Tháng 8 là tháng ẩm ướt hơn, với tổng lượng mưa cao hơn 13.00 mm.
+- Khi có mưa, các trận mưa ở Tháng 9 có cường độ mạnh hơn (trung bình 200.38 mm/ngày) so với Tháng 8 (trung bình 194.34 mm/ngày).
+
+--- 5 Ngày có Tổng Lượng Mưa Lớn Nhất trong Tháng 9 ---
+  1. Ngày: 2025-09-14, Tổng Lượng mưa: 454.5 mm
+  2. Ngày: 2025-09-27, Tổng Lượng mưa: 383.2 mm
+  3. Ngày: 2025-09-28, Tổng Lượng mưa: 353.9 mm
+  4. Ngày: 2025-09-21, Tổng Lượng mưa: 306.9 mm
+  5. Ngày: 2025-09-15, Tổng Lượng mưa: 298.5 mm
+
+--- Lưu ý về Chất lượng Dữ liệu ---
+Một số bản ghi trong tháng 9 (bắt đầu từ ngày 2025-09-11) bị thiếu chi tiết về lượng mưa. Điều này có nghĩa là tổng lượng mưa và số ngày mưa của tháng 9 có thể bị báo cáo thiếu, ảnh hưởng đến độ chính xác của việc so sánh.
+
+========================= Kết thúc Báo cáo =========================
